@@ -1,4 +1,4 @@
-=== Search Replace in Gutenberg Page Editor ===
+=== Search Replace for Guten Page Editor ===
 Contributors: mehedi_csit
 Tags: search, replace, Gutenberg, page content, editor
 Tested up to: 6.7
@@ -8,7 +8,7 @@ License URI: https://www.gnu.org/licenses/gpl-2.0.html
 
 == Description ==
 
-The "Search Replace in Gutenberg Page Editor" plugin allows you to efficiently search and replace content within individual pages in WordPress. Designed specifically for Gutenberg's code editor mode, this plugin simplifies the process of finding and replacing text, HTML, or any code snippets directly in the editor.
+The "Search Replace for Guten Page Editor" plugin allows you to efficiently search and replace content within individual pages in WordPress. Designed specifically for Gutenberg's code editor mode, this plugin simplifies the process of finding and replacing text, HTML, or any code snippets directly in the editor.
 
 Whether you’re fixing typos, updating links, or modifying repetitive text, this plugin is a must-have for WordPress users who work extensively with page content in the Gutenberg editor.
 

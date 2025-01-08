@@ -1,6 +1,6 @@
 <?php
 /**
- * Plugin Name: Search Replace in Gutenberg Page Editor
+ * Plugin Name: Search Replace for Guten Page Editor
  * Description: Adds a sidebar to the block editor for search-and-replace page content.
  * Version: 0.1.0
  * Author: Mehedi Hasan
