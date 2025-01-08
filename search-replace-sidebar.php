@@ -1,9 +1,10 @@
 <?php
 /**
- * Plugin Name: Sidebar Search Replace
- * Description: Adds a sidebar to the block editor for search-and-replace functionality.
- * Version: 1.0.0
+ * Plugin Name: Search Replace in Gutenberg Page Editor
+ * Description: Adds a sidebar to the block editor for search-and-replace page content.
+ * Version: 0.1.0
  * Author: Mehedi Hasan
+ * Text Domain: custom-sidebar-search-replace
  * License: GPL2+
  */
 
@@ -11,8 +12,14 @@ if (! defined('ABSPATH') ) {
     exit;
 }
 
-// Enqueue scripts and styles for the editor
-function custom_sidebar_search_replace_enqueue($hook)
+/**
+ * Registers the sidebar plugin.
+ *
+ * @param mixed $hook The hook parameter used for registration.
+ * 
+ * @return void
+ */
+function srgpe_sidebar_search_replace_enqueue($hook)
 {
     if ('post.php' === $hook || 'post-new.php' === $hook) {
         wp_enqueue_script(
@@ -24,4 +31,4 @@ function custom_sidebar_search_replace_enqueue($hook)
         );
     }
 }
-add_action('admin_enqueue_scripts', 'custom_sidebar_search_replace_enqueue');
+add_action('admin_enqueue_scripts', 'srgpe_sidebar_search_replace_enqueue');
