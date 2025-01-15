@@ -1,7 +1,7 @@
 <?php
 /**
- * Plugin Name: Search Replace for Guten Page Editor
- * Description: Adds a sidebar to the block editor for search-and-replace page content.
+ * Plugin Name: Quick Search & Replace for Block Page Editor
+ * Description: Adds a sidebar to the block code editor for search-and-replace page content.
  * Version: 0.1.0
  * Author: Mehedi Hasan
  * Text Domain: sidebar-search-replace

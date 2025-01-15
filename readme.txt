@@ -1,4 +1,4 @@
-=== Search Replace for Guten Page Editor ===
+=== Quick Search & Replace for Block Page Editor ===
 Contributors: mehedi_csit
 Tags: search, replace, Gutenberg, page content, editor
 Tested up to: 6.7
@@ -8,7 +8,7 @@ License URI: https://www.gnu.org/licenses/gpl-2.0.html
 
 == Description ==
 
-The "Search Replace for Guten Page Editor" plugin allows you to efficiently search and replace content within individual pages in WordPress. Designed specifically for Gutenberg's code editor mode, this plugin simplifies the process of finding and replacing text, HTML, or any code snippets directly in the editor.
+The "Quick Search & Replace for Block Page Editor" plugin allows you to efficiently search and replace content within individual pages in WordPress. Designed specifically for Gutenberg's code editor mode, this plugin simplifies the process of finding and replacing text, HTML, or any code snippets directly in the editor.
 
 Whether you’re fixing typos, updating links, or modifying repetitive text, this plugin is a must-have for WordPress users who work extensively with page content in the Gutenberg editor.
 
@@ -20,7 +20,7 @@ Supports replacing plain text, HTML, or other code snippets.
 Lightweight and easy to use with no configuration required.
 == Installation ==
 
-Upload the plugin files to the /wp-content/plugins/Search Replace in Gutenberg Page Editor directory, or install the plugin through the WordPress plugins screen directly.
+Upload the plugin files to the /wp-content/plugins/Quick Search & Replace for Block Page Editor directory, or install the plugin through the WordPress plugins screen directly.
 Activate the plugin through the 'Plugins' screen in WordPress.
 Open any page in Gutenberg code editor mode, and you can start using the search-and-replace functionality.
 == Frequently Asked Questions ==
@@ -38,7 +38,7 @@ Yes, the plugin is tested and fully compatible with the latest WordPress version
 
 = 0.1.0 =
 
-Initial release of the Search Replace Page Content plugin.
+Initial release of the Quick Search & Replace for Block Page Editor.
 == Arbitrary Section ==
 
 This plugin is designed for simplicity and focuses on Gutenberg's code editor mode. For advanced usage, users can pair it with custom shortcuts or extend its functionality via custom scripts.
